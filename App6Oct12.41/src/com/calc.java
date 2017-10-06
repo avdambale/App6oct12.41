@@ -8,5 +8,8 @@ public class calc {
 	public int sub() {
 		return 8;
 	}
+	public int subs() {
+		return 8;
+	}
 
 }
